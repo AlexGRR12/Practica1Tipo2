@@ -1,0 +1,21 @@
+Nom				Cognoms				Adreça				Ciutat				Telèfon
+
+  Carla                       Mendonza Torres                  Calle del Bosque, 87               Salamanca                       611 234 567
+
+  Andrés                       Vega Ruiz                       Avenida de los Cedros, 92          Córdoba                         622 345 678
+
+  Natalia                     Jimenez Castro                   Plaza Catedral, 14                 Valladolid                      633 456 789
+
+  Luis                        Morales Cabrera                  Calle de la Montaña, 51            Murcia                          644 567 890
+
+  Unai                        Torres Martinez                  Calle la Paz, 22                   Burriana                        655 123 956
+
+  Guillem                     Fortuño                          Calle Avenida la Libertad, 30      Nules                           666 222 333
+
+  Eduard                      Congost Roca                     Calle San Bruno, 2                 Burriana                        607 234 784
+
+  Gabriel                     Ortega Perez                     Calle del Río, 66                  Valencia                        699 012 345
+
+  Fernando                    Costa Morales                    Plaza el Parque, 7                 Burgos                          693 232 212
+ 
+  Julia                       Delgado                          Calle de los Naranjos, 43          Getafe                          677 454 565
